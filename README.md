@@ -89,11 +89,15 @@ pip install -r requirements.txt
 
 ## 📊 Example Visualizations
 Some highlights from the analysis include:  
-- 📈 Distribution of health indicators (glucose, BMI, etc.)  
-- 🔥 Correlation heatmaps  
-- 🩸 Outlier detection in medical features  
 
-*(You can add plots in `images/` once generated, e.g. `images/heatmap.png`)*  
+### Correlation Heatmap  
+![Heatmap](Visualization/diabetes.7.png)  
+
+### Age Distribution  
+![Age Distribution](Visualization/diabetes.2.png)  
+
+### Glucose vs. Diabetes Outcome  
+![Glucose Boxplot](Visualization/diabetes.4.png) 
 
 ---
 
